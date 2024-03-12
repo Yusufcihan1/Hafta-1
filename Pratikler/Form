@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form>
+        Ad: <input type="text" required><br>    
+        Soyad: <input type="text" required><br>
+        E-posta: <input type="email" required><br>
+        Parola: <input type="password" required> <br><br>
+        <p>Cinsiyet: </p>
+        <input type="radio" name="gender" id="male" value="male" required>
+        <label for="male">Erkek</label><br>
+        <input type="radio" name="gender" id="female" value="female" required>
+        <label for="female">Kadın</label><br><br>
+        <label for="favori">Favori Meyveniz:</label><br>
+        <select id="favori" name="favori" required>
+            <option value="elma">Elma</option>
+            <option value="muz">Muz</option>
+            <option value="çilek">Çilek</option>
+            </select><br> <br>
+        Mesajınız: <br>
+        <textarea rows="4" cols="50"></textarea><br>
+        <br>
+        <input type="checkbox" id="terms" name="terms" required>Kullanım Şartlarını Kabul Ediyorum. <br><br>
+        <input type="submit">
+        <input type="reset">
+
+
+    </form>
+    
+</body>
+</html>
