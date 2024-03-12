@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hayvanlar Alemi</title>
+</head>
+<body>
+    <h1>Hayvanlar Alemi</h1> <hr>
+    <p>Yakın türler bir cinste, yakın cinsler bir familyada, yakın familyalar bir takımda, yakın takımlar bir sınıfta, yakın sınıflar bir şubede ve yakın şubeler bir alemde gruplandırılır. </p>
+    <br>
+    <h2>Memeliler</h2>
+    <img src="https://image.milimaj.com/i/milliyet/75/600x300/5e8dafb35542800430dc70c5.jpg" alt="Memeliler">
+    <p>Çift ve karmaşık dolaşım sistemine sahip, sabit vücut sıcaklıklı hayvanlardır. Vücutları genellikle kıllarla örtülüdür.</p>
+
+    <h2>Sürüngenler</h2>
+    <img src="https://www.tarimdan.com/image/bilgibankasi/surungen-nedir-ozellikleri-nelerdir_56a27ac6e5f30.gif" alt="Sürüngenler">
+    <p>Sürüngenler (Latince: Reptilia), omurgalıların soğukkanlı, yumurtlayarak çoğalan, büyük bir sınıftır.</p>
+    <h2>Kuşlar</h2>
+    <img src="https://im.haberturk.com/l/2023/02/24/ver1698399483/3568263/jpg/640x360" alt="Kuşlar">
+    <p>Kuşlar tüylü teropod dinozorlardır ve yaşayan tek dinozor grubunu oluştururlar. Ayrıca yaşayan en yakın akrabaları timsahlardır.</p>
+ 
+    <br>
+    <p>Tablo Versiyonu:</p>
+
+    <table border="1">
+        <tr>
+            <th colspan="3"><h1>Hayvanlar Alemi</h1></th>
+            
+        </tr>
+        <tr>
+            <td><h2>Memeliler</h2></td>
+            <td><h2>Sürüngenler</h2></td>
+            <td><h2>Kuşlar</h2></td>
+        </tr>
+        <tr>
+        <td><img src="https://image.milimaj.com/i/milliyet/75/600x300/5e8dafb35542800430dc70c5.jpg" alt="Memeliler"></td>
+        <td><img src="https://www.tarimdan.com/image/bilgibankasi/surungen-nedir-ozellikleri-nelerdir_56a27ac6e5f30.gif" alt="Sürüngenler"></td>
+        <td><img src="https://im.haberturk.com/l/2023/02/24/ver1698399483/3568263/jpg/640x360" alt="Kuşlar"></td>
+        </tr>
+        <tr>
+            <td>Çift ve karmaşık dolaşım sistemine sahip, sabit vücut sıcaklıklı hayvanlardır. Vücutları genellikle kıllarla örtülüdür.</td>
+            <td>Sürüngenler (Latince: Reptilia), omurgalıların soğukkanlı, yumurtlayarak çoğalan, büyük bir sınıftır.</td>
+            <td>Kuşlar tüylü teropod dinozorlardır ve yaşayan tek dinozor grubunu oluştururlar. Ayrıca yaşayan en yakın akrabaları timsahlardır.</td>
+        </tr>
+    </table>
+<br>
+    <a href="https://www.wikipedia.org"><b>Daha Fazla Bilgi İçin Bağlantıya Tıklayın</b></a>
+</body>
+</html>
